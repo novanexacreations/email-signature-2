@@ -1,0 +1,1058 @@
+<table
+  cellspacing="0"
+  cellpadding="0"
+  dir="ltr"
+  border="1"
+  style="
+    table-layout: fixed;
+    font-size: 10pt;
+    font-family: Arial;
+    width: 0px;
+    border-collapse: collapse;
+    border: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  "
+>
+  <colgroup>
+    <col width="171" />
+    <col width="194" />
+    <col width="167" />
+  </colgroup>
+  <tbody>
+    <tr style="height: 58px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      >
+        Email:info@example.com
+      </td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      >
+        Web:www.example.com
+      </td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          font-size: 18pt;
+          font-weight: bold;
+          color: rgb(241, 255, 255);
+          border: none;
+        "
+        rowspan="1"
+        colspan="2"
+      >
+        Type Here Heading Content
+      </td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          font-size: 12pt;
+          overflow-wrap: break-word;
+          color: rgb(255, 255, 255);
+          border: none;
+        "
+        rowspan="1"
+        colspan="3"
+      >
+        Thank you for subscribing to our newsletter. Stay tuned for exciting
+        updates and news.
+      </td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          color: rgb(241, 255, 255);
+          border: none;
+        "
+      >
+        12:00 PM, January 1, 2024
+      </td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(26, 128, 253);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          font-size: 18pt;
+          font-weight: bold;
+          border: none;
+        "
+        rowspan="1"
+        colspan="2"
+      >
+        Featured Article
+      </td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          overflow-wrap: break-word;
+          border: none;
+        "
+        rowspan="1"
+        colspan="3"
+      >
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book.lt has survived not only five
+        centuries, but also the leap into electronic typesetting, remaining
+        essentially unchanged. It was popularised in the 1960s with the release
+        of Letraset sheets containing Lorem Ipsum passages, and more recently
+        <span
+          zeum4c1="PR_1_0"
+          data-ddnwab="PR_1_0"
+          aria-invalid="spelling"
+          class="LI ng"
+          >withdesktop</span
+        >
+        publishing software like Aldus PageMaker including versions of Lorem
+        Ipsum.. Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry Lorem Ipsum has been the industry's standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book.lt has survived not only five
+        centuries, but also the leap into electronic typesetting, remaining
+        essentially unchanged. It was popularised in the 1960s with the release
+        of Letraset sheets containing Lorem Ipsum passages, and more recently
+        <span
+          zeum4c1="PR_2_0"
+          data-ddnwab="PR_2_0"
+          aria-invalid="spelling"
+          class="LI ng"
+          >withdesktop</span
+        >
+        publishing software like Aldus PageMaker including versions of Lorem
+        Ipsum.
+      </td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          font-size: 18pt;
+          font-weight: bold;
+          border: none;
+        "
+      >
+        Contact Us
+      </td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          font-size: 12pt;
+          border: none;
+        "
+        rowspan="1"
+        colspan="3"
+      >
+        For inquiries and support, please contact our customer service team.
+      </td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          background-color: rgb(240, 243, 189);
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: middle;
+          font-size: 12pt;
+          text-align: center;
+          border: none;
+        "
+        rowspan="1"
+        colspan="3"
+      >
+        Connecting People, Empowering Businesses.
+      </td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          text-align: center;
+          border: none;
+        "
+      >
+        Phone: 123-456-7890
+      </td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          font-size: 12pt;
+          text-align: center;
+          border: none;
+        "
+        rowspan="1"
+        colspan="3"
+      >
+        Facebook Twitter LinkedIn
+      </td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: middle;
+          font-size: 12pt;
+          text-align: center;
+          border: none;
+        "
+        rowspan="1"
+        colspan="3"
+      >
+        © 2023-2024 NovaNexa Creations. All rights reserved.
+      </td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+    <tr style="height: 21px">
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+      <td
+        style="
+          overflow: hidden;
+          padding: 2px 3px;
+          vertical-align: bottom;
+          border: none;
+        "
+      ></td>
+    </tr>
+  </tbody>
+</table>
